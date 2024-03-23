@@ -21,8 +21,8 @@
 
 ## 🚀 My Skills
 
-- **Programming Languages:** Python
-- **Web Development:** Django, HTML, CSS, JavaScript, Tailwind, SQL (PostgreSQL), Bootstrap
+- **Programming Languages:** Python, JS(just basic knowledge)
+- **Web Development:** Django, HTML, CSS, JavaScript, Tailwind, SQL (PostgreSQL), Bootstrap, react(just basic knowledge)
 - **Machine Learning:** Currently exploring and learning various ML frameworks and libraries.
 - **Version Control:** Git, GitHub
 
